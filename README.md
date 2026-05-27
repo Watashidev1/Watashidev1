@@ -1,33 +1,32 @@
-<h1 align="center">Welcome to my digital bunker</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Watashidev1&label=Profile%20Views&color=0e75b6&style=flat" alt="Watashidev1" />
-  <img src="https://img.shields.io/badge/Status-Active%20Defense-green?style=flat&logo=linux" alt="Status" />
-</p>
+<br>
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Watashidev1&fontSize=60&fontAlignY=40&desc=SOC%20Analyst%20%7C%20Python%20Developer&descSize=20)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Linux+Enthusiast;Security+Researcher;Automation+Expert)](https://git.io/typing-svg)
 
 ---
 
-### 🛡️ About Me
-I am a **SOC Analyst** and **Python Developer**. My world revolves around Linux, log analysis, and automated threat hunting. I believe that a good defender should think like an attacker.
+### 🚀 Contact & Socials
+<p align="center">
+  <a href="mailto:watashisdead@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/eyestears"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+---
 
 ### 🛠 Tech Stack
-* **Language:** Python (Scripting, Automation, Data Analysis)
-* **OS:** Linux (Arch, Debian, Kali)
-* **Security:** SIEM, Incident Response, Network Analysis, Forensic Tools
-* **Tools:** Git, Docker, Bash, VS Code
-
-### 📈 Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Watashidev1&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Watashidev1&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-### 🛰️ Current Mission
-- Automating SOC alerts with Python.
-- Deepening my knowledge in kernel-level security.
-- Building a collection of custom defensive scripts.
-
----
 <p align="center">
-  <i>"In code we trust, in defense we act."</i>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=googlesecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
+
+### 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Watashidev1&show_icons=true&theme=radical&hide_border=true" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Watashidev1&theme=radical&hide_border=true" width="45%">
+</p>
+
+</div>
